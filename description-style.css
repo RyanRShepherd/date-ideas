@@ -1,0 +1,340 @@
+/* Styling for the title on description pages */
+.description-title {
+    text-align: center;
+    color: #b97f36; /* Match the color of the index file's title */
+    font-family: 'Marcellus', serif;
+    font-size: 40px;
+    text-transform: uppercase;
+    margin: 0; /* Remove default margin */
+    background-color: white; /* Set the background color to white */
+    padding: 20px; /* Add padding for better spacing */
+    width: 100%; /* Set the width to 100% */
+    box-sizing: border-box; /* Include padding and border in the element's total width and height */
+}
+
+/* Description 1 Photo */
+
+/* Centering the image */
+.description-photo-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%; /* Optionally set the height of the container */
+    margin-top: 20px;;
+}
+
+.bold{
+    font-weight: bold;
+}
+
+li{
+    text-align: left;
+}
+
+.description-text{
+    max-width: 1000px; /* Set the maximum width as per your design */
+    margin: 0 auto; /* Center the text horizontally */
+    font-family: 'Marcellus', serif;
+    font-size: 18px;
+    text-align: center;
+}
+
+.description1-photo {
+    height: 400px;
+    margin: 50px;
+    max-width: 100%; /* Ensure the image doesn't exceed the container width */
+    max-height: 100%; /* Ensure the image doesn't exceed the container height */
+    background-color: white;
+    padding: 15px;
+    border: 5px solid #b97f36 ;
+}
+
+.description2-photo{
+    height: 400px;
+    margin: 50px;
+    max-width: 100%; /* Ensure the image doesn't exceed the container width */
+    max-height: 100%; /* Ensure the image doesn't exceed the container height */
+    background-color: white;
+    padding: 15px;
+    border: 5px solid #b97f36 ;
+}
+
+.description3-photo{
+    height: 300px;
+    margin: 50px;
+    max-width: 100%; /* Ensure the image doesn't exceed the container width */
+    max-height: 100%; /* Ensure the image doesn't exceed the container height */
+    background-color: white;
+    padding: 15px;
+    border: 5px solid #b97f36 ;
+}
+
+.description4-photo{
+    height: 300px;
+    margin: 50px;
+    max-width: 100%; /* Ensure the image doesn't exceed the container width */
+    max-height: 100%; /* Ensure the image doesn't exceed the container height */
+    background-color: white;
+    padding: 15px;
+    border: 5px solid #b97f36 ;
+}
+
+.description5-photo{
+    height: 400px;
+    margin: 50px;
+    max-width: 100%; /* Ensure the image doesn't exceed the container width */
+    max-height: 100%; /* Ensure the image doesn't exceed the container height */
+    background-color: white;
+    padding: 15px;
+    border: 5px solid #b97f36 ;
+}
+
+.description6-photo{
+    height: 400px;
+    margin: 50px;
+    max-width: 100%; /* Ensure the image doesn't exceed the container width */
+    max-height: 100%; /* Ensure the image doesn't exceed the container height */
+    background-color: white;
+    padding: 15px;
+    border: 5px solid #b97f36 ;
+}
+
+.description7-photo{
+    height: 400px;
+    margin: 50px;
+    max-width: 100%; /* Ensure the image doesn't exceed the container width */
+    max-height: 100%; /* Ensure the image doesn't exceed the container height */
+    background-color: white;
+    padding: 15px;
+    border: 5px solid #b97f36 ;
+}
+
+.description8-photo{
+    height: 400px;
+    margin: 50px;
+    max-width: 100%; /* Ensure the image doesn't exceed the container width */
+    max-height: 100%; /* Ensure the image doesn't exceed the container height */
+    background-color: white;
+    padding: 15px;
+    border: 5px solid #b97f36 ;
+}
+
+.description9-photo{
+    height: 400px;
+    margin: 50px;
+    max-width: 100%; /* Ensure the image doesn't exceed the container width */
+    max-height: 100%; /* Ensure the image doesn't exceed the container height */
+    background-color: white;
+    padding: 15px;
+    border: 5px solid #b97f36 ;
+}
+
+.description10-photo{
+    height: 400px;
+    margin: 50px;
+    max-width: 100%; /* Ensure the image doesn't exceed the container width */
+    max-height: 100%; /* Ensure the image doesn't exceed the container height */
+    background-color: white;
+    padding: 15px;
+    border: 5px solid #b97f36 ;
+}
+
+.description11-photo{
+    height: 400px;
+    margin: 50px;
+    max-width: 100%; /* Ensure the image doesn't exceed the container width */
+    max-height: 100%; /* Ensure the image doesn't exceed the container height */
+    background-color: white;
+    padding: 15px;
+    border: 5px solid #b97f36 ;
+}
+
+.description12-photo{
+    height: 400px;
+    margin: 50px;
+    max-width: 100%; /* Ensure the image doesn't exceed the container width */
+    max-height: 100%; /* Ensure the image doesn't exceed the container height */
+    background-color: white;
+    padding: 15px;
+    border: 5px solid #b97f36 ;
+}
+
+.description13-photo{
+    height: 400px;
+    margin: 50px;
+    max-width: 100%; /* Ensure the image doesn't exceed the container width */
+    max-height: 100%; /* Ensure the image doesn't exceed the container height */
+    background-color: white;
+    padding: 15px;
+    border: 5px solid #b97f36 ;
+}
+
+.description14-photo{
+    height: 400px;
+    margin: 50px;
+    max-width: 100%; /* Ensure the image doesn't exceed the container width */
+    max-height: 100%; /* Ensure the image doesn't exceed the container height */
+    background-color: white;
+    padding: 15px;
+    border: 5px solid #b97f36 ;
+}
+
+.description15-photo{
+    height: 400px;
+    margin: 50px;
+    max-width: 100%; /* Ensure the image doesn't exceed the container width */
+    max-height: 100%; /* Ensure the image doesn't exceed the container height */
+    background-color: white;
+    padding: 15px;
+    border: 5px solid #b97f36 ;
+}
+
+.description16-photo{
+    height: 500px;
+    margin: 50px;
+    max-width: 100%; /* Ensure the image doesn't exceed the container width */
+    max-height: 100%; /* Ensure the image doesn't exceed the container height */
+    background-color: white;
+    padding: 15px;
+    border: 5px solid #b97f36 ;
+}
+
+.description17-photo{
+    height: 500px;
+    margin: 50px;
+    max-width: 100%; /* Ensure the image doesn't exceed the container width */
+    max-height: 100%; /* Ensure the image doesn't exceed the container height */
+    background-color: white;
+    padding: 15px;
+    border: 5px solid #b97f36 ;
+}
+
+.description18-photo{
+    height: 500px;
+    margin: 50px;
+    max-width: 100%; /* Ensure the image doesn't exceed the container width */
+    max-height: 100%; /* Ensure the image doesn't exceed the container height */
+    background-color: white;
+    padding: 15px;
+    border: 5px solid #b97f36 ;
+}
+
+.description19-photo{
+    height: 400px;
+    margin: 50px;
+    max-width: 100%; /* Ensure the image doesn't exceed the container width */
+    max-height: 100%; /* Ensure the image doesn't exceed the container height */
+    background-color: white;
+    padding: 15px;
+    border: 5px solid #b97f36 ;
+}
+
+.description20-photo{
+    height: 500px;
+    margin: 50px;
+    max-width: 100%; /* Ensure the image doesn't exceed the container width */
+    max-height: 100%; /* Ensure the image doesn't exceed the container height */
+    background-color: white;
+    padding: 15px;
+    border: 5px solid #b97f36 ;
+}
+
+.description21-photo{
+    height: 500px;
+    margin: 50px;
+    max-width: 100%; /* Ensure the image doesn't exceed the container width */
+    max-height: 100%; /* Ensure the image doesn't exceed the container height */
+    background-color: white;
+    padding: 15px;
+    border: 5px solid #b97f36 ;
+}
+
+.description22-photo{
+    height: 400px;
+    margin: 50px;
+    max-width: 100%; /* Ensure the image doesn't exceed the container width */
+    max-height: 100%; /* Ensure the image doesn't exceed the container height */
+    background-color: white;
+    padding: 15px;
+    border: 5px solid #b97f36 ;
+}
+
+.description23-photo{
+    height: 500px;
+    margin: 50px;
+    max-width: 100%; /* Ensure the image doesn't exceed the container width */
+    max-height: 100%; /* Ensure the image doesn't exceed the container height */
+    background-color: white;
+    padding: 15px;
+    border: 5px solid #b97f36 ;
+}
+
+.description24-photo{
+    height: 400px;
+    margin: 50px;
+    max-width: 100%; /* Ensure the image doesn't exceed the container width */
+    max-height: 100%; /* Ensure the image doesn't exceed the container height */
+    background-color: white;
+    padding: 15px;
+    border: 5px solid #b97f36 ;
+}
+
+.description25-photo{
+    height: 400px;
+    margin: 50px;
+    max-width: 100%; /* Ensure the image doesn't exceed the container width */
+    max-height: 100%; /* Ensure the image doesn't exceed the container height */
+    background-color: white;
+    padding: 15px;
+    border: 5px solid #b97f36 ;
+}
+
+.description26-photo{
+    height: 500px;
+    margin: 50px;
+    max-width: 100%; /* Ensure the image doesn't exceed the container width */
+    max-height: 100%; /* Ensure the image doesn't exceed the container height */
+    background-color: white;
+    padding: 15px;
+    border: 5px solid #b97f36 ;
+}
+
+.description27-photo{
+    height: 400px;
+    margin: 50px;
+    max-width: 100%; /* Ensure the image doesn't exceed the container width */
+    max-height: 100%; /* Ensure the image doesn't exceed the container height */
+    background-color: white;
+    padding: 15px;
+    border: 5px solid #b97f36 ;
+}
+
+.description28-photo{
+    height: 500px;
+    margin: 50px;
+    max-width: 100%; /* Ensure the image doesn't exceed the container width */
+    max-height: 100%; /* Ensure the image doesn't exceed the container height */
+    background-color: white;
+    padding: 15px;
+    border: 5px solid #b97f36 ;
+}
+
+.description29-photo{
+    height: 400px;
+    margin: 50px;
+    max-width: 100%; /* Ensure the image doesn't exceed the container width */
+    max-height: 100%; /* Ensure the image doesn't exceed the container height */
+    background-color: white;
+    padding: 15px;
+    border: 5px solid #b97f36 ;
+}
+
+.description30-photo{
+    height: 400px;
+    margin: 50px;
+    max-width: 100%; /* Ensure the image doesn't exceed the container width */
+    max-height: 100%; /* Ensure the image doesn't exceed the container height */
+    background-color: white;
+    padding: 15px;
+    border: 5px solid #b97f36 ;
+}

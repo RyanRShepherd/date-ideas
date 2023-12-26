@@ -1,0 +1,66 @@
+/* Grid layout for date ideas */
+.grid-container {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+    gap: 10px;
+}
+
+/* Styling for the title and dedication container */
+.title-container {
+    text-align: center;
+    background-color: white;
+    padding: 20px;
+    margin: 0;
+}
+
+/* Styling for the title */
+.title {
+    color: #b97f36;
+    font-family: 'Marcellus', serif;
+    font-size: 40px;
+    text-transform: uppercase;
+    margin: 0; /* Remove default margin */
+}
+
+/* Styling for the dedication text */
+.dedication {
+    font-family: 'CursiveFont', cursive; /* Specify your cursive font here */
+    color: #b97f36; /* Match the color of the title */
+    margin: 0; /* Remove default margin */
+    font-family: 'Great Vibes', cursive;
+    font-size: 25px;
+}
+
+/* Styling for the note */
+.note {
+    cursor: pointer;
+    border: 1px solid #b97f36; /* Set the initial border thickness and color */
+    border-radius: 10px; /* Rounded corners */
+    padding: 10px;
+    margin: 5px;
+    background-color: white;
+    color: #333; /* Set the default font color */
+    transition: background-color 0.3s ease, border-color 0.3s ease, color 0.3s ease; /* Add transitions for smooth changes */
+    font-family: 'Marcellus', serif;
+}
+
+/* Styling for the opened note (No background color definition here) */
+.note.opened {
+    /* Background color will be set dynamically in JavaScript */
+    border: 1px solid white; /* Maintain the initial border thickness when opened */
+    color: white;
+}
+
+body {
+    background-color: #e8e0d8;
+    color: #333;
+    font-family: 'Arial', sans-serif;
+    margin: 0; /* Remove default margin */
+}
+
+/* Horizontal rule for separation */
+.hr-line {
+    border: none;
+    border-top: 2px solid #b97f36; /* Set the color and thickness of the top border */
+    margin: 10px 0; /* Add margin for better spacing */
+}
